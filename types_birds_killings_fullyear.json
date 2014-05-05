@@ -1,0 +1,13 @@
+{
+    "results":
+[{"birdType":"Laughing Gull","numberKilled2012":12446,"numberKilled2013":6777},
+{"birdType":"Herring Gull","numberKilled2012":9387,"numberKilled2013":3920},
+{"birdType":"Mourning Dove","numberKilled2012":8660,"numberKilled2013":3790},
+{"birdType":"European Starling","numberKilled2012":8116,"numberKilled2013":4481},
+{"birdType":"Atlantic Brant","numberKilled2012":3993,"numberKilled2013":2211},
+{"birdType":"Ring-billed Gull","numberKilled2012":3232,"numberKilled2013":1865},
+{"birdType":"Canada Goose","numberKilled2012":2819,"numberKilled2013":2305},
+{"birdType":"Brown-headed Cowbird","numberKilled2012":2343,"numberKilled2013":1573},
+{"birdType":"Rock Pigeon","numberKilled2012":2322,"numberKilled2013":1422},
+{"birdType":"Double-crested Cormorant","numberKilled2012":1661,"numberKilled2013":656}]
+}
